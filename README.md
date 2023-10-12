@@ -1,4 +1,1 @@
-create table worker1
-(
-empid varchar(10),empname varchar2(20),gender varchar(10),age number(3),dept varchar2(15),dob date,doj date
-);
+Bharathi_5E25B25B7C2A9688ECD4590536A1F511
